@@ -2,6 +2,9 @@
 
 This repository contains the **LocalAI App**, a PyQt5-based application that integrates LangChain's Conversational Retrieval Chain with OpenAI's GPT models. The app allows users to interact with their data in natural language by training an AI on internal files within a selected directory.
 
+![Screen Shot 2024-11-13 at 10 34 17 AM](https://github.com/user-attachments/assets/4f26b949-0858-4434-b813-da82e9ee857a)
+
+
 ---
 
 ## Features
