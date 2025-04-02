@@ -1,0 +1,39 @@
+## To install we are going to run this command.
+
+py -3.12 -m pip install Flask slack-bolt slack-sdk python-dotenv openai langchain langchain-openai langchain-community aiohttp python-magic-bin
+
+## You will want to Open Terminal >> Copy and paste >> Enter
+
+langchain
+openai
+PyQt5
+chromadb
+tiktoken
+unstructured[pdf]
+unstructured[all]
+schedule
+unstructured
+langchain-openai
+datetime
+beautifulsoup4
+unstructured[docx]
+unstructured[csv]
+unstructured[xlmx]
+appdirs
+click
+langchain_core
+pydantic
+pydantic_core
+python-dotenv
+PyYAML
+regex
+requests
+setuptools
+langchain_community
+embedchain
+Flask
+slack-bolt
+slack-sdk
+aiohttp
+python-magic-bin
+
